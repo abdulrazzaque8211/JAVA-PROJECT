@@ -1,5 +1,5 @@
 package com.springcore.standalone.collections;
-
+// this is standdlone colleections
 interface K {
 	void a();
 }
